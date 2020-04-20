@@ -31,7 +31,7 @@ $ npm run start
 # generate static project
 $ npm run generate
 
-# for automaticali fix eslint
+# for automaticaly fix eslint
 $ npm run lint -- --fix
 ```
 
