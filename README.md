@@ -1,6 +1,19 @@
 # factory
 
-> Factory test
+> Factory Vue - task
+  Techinac specification 
+  Vue.js
+  
+  Library:
+  - Nuxt.js
+  - Axios
+  - Vuex
+  
+  Material Design:
+  - Vuetify
+  
+  Data
+  - Firebase
 
 ## Build Setup
 
@@ -17,6 +30,9 @@ $ npm run start
 
 # generate static project
 $ npm run generate
+
+# for automaticali fix eslint
+$ npm run lint -- --fix
 ```
 
 For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
